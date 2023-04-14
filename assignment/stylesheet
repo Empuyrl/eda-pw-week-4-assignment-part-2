@@ -3,5 +3,9 @@ header {
 }
 h2 {
     background-color: aqua;
-    text-emphasis-color: black; 
+    color: black; 
+}
+h3 {
+    background-color: navy;
+    color: wheat
 }
