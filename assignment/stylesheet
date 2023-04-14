@@ -1,0 +1,7 @@
+header {
+    background-color: red;
+}
+h2 {
+    background-color: aqua;
+    text-emphasis-color: black; 
+}
